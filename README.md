@@ -19,14 +19,14 @@ Refer to the [code](./Code) for the approach and implementation.
 - The model was tested on the images in the test1 folder. The performance of the model was very good and was able to predict the animals with 97-99% accuracy.
 
 Plots for model accuracy and loss are following:
+<img width="520" height="352" alt="accuracy_5000images_15epochs" src="https://github.com/user-attachments/assets/24dc0420-b938-483e-84e9-42c018712db8" />
 
-![alt text](./output/accuracy_5000images_15epochs.png?raw=true "Model accuracy with 5000 images")
+<img width="712" height="341" alt="accuracy_18000images_15epochs" src="https://github.com/user-attachments/assets/9ca30124-67b7-4015-ad3c-027b53a115e7" />
 
-![alt text](./output/loss_5000images_15epochs.png?raw=true "Model loss with 5000 images")
+<img width="515" height="351" alt="loss_5000images_15epochs" src="https://github.com/user-attachments/assets/7a965182-0fa8-4b3b-bec1-f17e87b564e8" />
 
-![alt text](./output/accuracy_18000images_15epochs.png?raw=true "Model accuracy with 18000 images")
+<img width="613" height="340" alt="loss_18000images_15epochs" src="https://github.com/user-attachments/assets/585f4704-7796-43b0-b35a-d554214dc8ae" />
 
-![alt text](./output/loss_18000images_15epochs.png?raw=true "Model loss with 18000 images")
 
 Classifying the images:
 
@@ -38,9 +38,23 @@ Classifying the images:
 
 ![alt text](./output/dog_prediction2.PNG?raw=true "Dog prediction")
 
+<img width="980" height="836" alt="dog_prediction1" src="https://github.com/user-attachments/assets/904f5833-31cf-4e8b-8f7a-44aa7c68f634" />
+
+<img width="1008" height="792" alt="dog_prediction2" src="https://github.com/user-attachments/assets/1e73c8db-4b0b-47ba-8fc2-ef894769d9d9" />
+
+<img width="1034" height="827" alt="cat_prediction1" src="https://github.com/user-attachments/assets/f6a12dd7-e396-4582-a9b8-8840115fd153" />
+
+<img width="1021" height="781" alt="cat_prediction2" src="https://github.com/user-attachments/assets/1364e52b-c409-41a9-9af6-b19674385231" />
 
 
-<!- **Output video predicting the images as cats and dogs can be found [here](https://drive.google.com/file/d/1sFOQtDGLc8avs-w5c2NtjmG5i7AYdUk0/view?usp=sharing).**->
+
+
+**Output video predicting the images as cats and dogs can be found here.**
+
+
+https://github.com/user-attachments/assets/b044a64f-ec2a-4856-9ab0-f9154effb406
+
+
 
 
 ### Instructions to run the code:
