@@ -30,19 +30,14 @@ Plots for model accuracy and loss are following:
 
 Classifying the images:
 
-![alt text](./output/cat_prediction1.PNG?raw=true "Cat prediction")
-
-![alt text](./output/cat_prediction2.PNG?raw=true "Cat prediction")
-
-![alt text](./output/dog_prediction1.PNG?raw=true "Dog prediction")
-
-![alt text](./output/dog_prediction2.PNG?raw=true "Dog prediction")
-
 <img width="980" height="836" alt="dog_prediction1" src="https://github.com/user-attachments/assets/904f5833-31cf-4e8b-8f7a-44aa7c68f634" />
+
 
 <img width="1008" height="792" alt="dog_prediction2" src="https://github.com/user-attachments/assets/1e73c8db-4b0b-47ba-8fc2-ef894769d9d9" />
 
+
 <img width="1034" height="827" alt="cat_prediction1" src="https://github.com/user-attachments/assets/f6a12dd7-e396-4582-a9b8-8840115fd153" />
+
 
 <img width="1021" height="781" alt="cat_prediction2" src="https://github.com/user-attachments/assets/1364e52b-c409-41a9-9af6-b19674385231" />
 
@@ -52,7 +47,7 @@ Classifying the images:
 **Output video predicting the images as cats and dogs can be found here.**
 
 
-https://github.com/user-attachments/assets/b044a64f-ec2a-4856-9ab0-f9154effb406
+https://github.com/user-attachments/assets/debddf32-dc8d-4da0-8949-d628e56c33d3
 
 
 
