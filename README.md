@@ -46,14 +46,7 @@ Classifying the images:
 
 **Output video predicting the images as cats and dogs can be found here.**
 
-
-https://github.com/user-attachments/assets/debddf32-dc8d-4da0-8949-d628e56c33d3
-
-
-
-
 ### Instructions to run the code:
-[Input dataset](https://drive.google.com/file/d/19inwa0n1W4DZamjCOm5XAlztvqG_xkjP/view?usp=sharing)
 
 - Go to directory:  _cd Code/_
 - To start the training run: 
